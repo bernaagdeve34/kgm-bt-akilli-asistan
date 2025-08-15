@@ -2,6 +2,15 @@
 
 Karayolları Genel Müdürlüğü Bilgi Teknolojileri çalışanları için ağ, siber güvenlik ve BT konularında hızlı destek ve bilgiye ulaşabileceğiniz akıllı asistan platformu.
 
+
+![image alt](https://github.com/bernaagdeve34/kgm-bt-akilli-asistan/blob/00ae86b7c92abec0355722d27589b29eed17ac46/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(1692).png)
+Şekil 1: Uygulama Anasayfa Tasarımı
+
+
+
+![image alt](https://github.com/bernaagdeve34/kgm-bt-akilli-asistan/blob/00ae86b7c92abec0355722d27589b29eed17ac46/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(1696).png)
+Şekil 2: Chatbot Ekranı
+
 ## 🚀 Özellikler
 
 - **Kullanıcı Yönetimi**: Güvenli kayıt ve giriş sistemi
